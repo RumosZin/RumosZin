@@ -24,15 +24,17 @@
 ## ⚡ My skill is ...
 The order doesn't matter! If you click the link, it connects to the repository.
    - Android > manage Room DB / make xml / Java / [Cheer-Up-Toothbrushing](https://github.com/RumosZin/capstone_cheerup_toothbrushing)
-   - Flutter > android application / Firebase / Practice / [Spot-spots](https://github.com/SpotSpots/spots_front)
-   - C++ > Algorithm problem solving / Simple console game / Yatch-Dice
-   - C > Linux kernel build / Makefile / 리눅스 과제한거 올리기
+   - Flutter > android application / Firebase / [Spot-spots](https://github.com/SpotSpots/spots_front)
+   - C++ > Algorithm problem solving / Simple console game [Yatch-Dice-Game](https://github.com/RumosZin/Yacht_Project)
+   - C > Linux kernel build / Makefile / [Practice](https://github.com/RumosZin/linux-kernel-source-code)
    - C# > [OSS file management project](https://github.com/RumosZin/Welcome-git)
    - Unity > [Dragon flight main game page clone coding](https://github.com/RumosZin/Unity_DragonFlight)
-   - Docker > (studying) / 연결된거 올리기
+   - Docker Kubernetes > (studying) / [Practice](https://github.com/GDSC-CAU/GDSC-CAU-CI-CD)
    - Spring > (studying) / Simple Web / [Todo-Challengers](https://github.com/RumosZin/todoChallegers)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumosZin)](https://github.com/anuraghazra/github-readme-stats)     
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=01zxcv)](https://solved.ac/01zxcv/)
 ## 😄 Mentoring / Study
 
    - Personal Study
