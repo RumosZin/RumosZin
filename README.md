@@ -27,7 +27,7 @@
 The order doesn't matter! If you click the link, it connects to the repository.
    - Android > manage Room DB / make xml / Java / [Cheer-Up-Toothbrushing](https://github.com/RumosZin/capstone_cheerup_toothbrushing)
    - Flutter > android application / Firebase / [Spot-spots](https://github.com/SpotSpots/spots_front)
-   - C++ > Algorithm problem solving / Simple console game [Yatch-Dice-Game](https://github.com/RumosZin/Yacht_Project)
+   - C++ > [Algorithm problem solving](https://github.com/RumosZin/algorithm-study) / Simple console game [Yatch-Dice-Game](https://github.com/RumosZin/Yacht_Project)
    - C > Linux kernel build / Makefile / [Practice](https://github.com/RumosZin/linux-kernel-source-code)
    - C# > [OSS file management project](https://github.com/RumosZin/Welcome-git)
    - Unity > [Dragon flight main game page clone coding](https://github.com/RumosZin/Unity_DragonFlight)
