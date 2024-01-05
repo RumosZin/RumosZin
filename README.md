@@ -40,12 +40,12 @@ The order doesn't matter! If you click the link, it connects to the repository.
 ## 😄 Mentoring / Study
 
    - Personal Study
-      - Baekjoon Problem Solving (2023.07 ~)
+      - Baekjoon Problem Solving (2023.07 ~ 2023.08 / 2024.01 ~ on going)
+      - Spring (2023.12 ~ on going)
       - Android (2023.10 ~ 2023.12)
-      - Spring (2023.12 ~)
    - Group Study
-      - Unity (2022.10 ~ 2022.12)
-      - Spring (2023.01 ~ 2023.04)
+      - Spring (2023.01 ~ 2023.04 / 2024.01 ~ on going)
+      - Problem Solving (2024.01 ~ on going)
       - Kubernetes (2023.09 ~ 2023.12)
 
 
