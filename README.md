@@ -1,29 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=200&section=header)
 
-# 👋 Welcome to Rumos's GitHub! 👋
+# Welcome to Rumos's GitHub! 👋
 
-## 😄 I'm ...
+## I am ...
    - CAU, Computer Science and Engineering (now)
    - GDSC CAU, Google Developer Student Clubs Chung-Ang University 3rd Member (now)
 
-
-## 🤔 The value I'm pursuing is...
-
-### TOGETHER
-   - I seek to grow together.
-   - I like to share my concerns with each other and find solutions together.
-### EDUCATION
-   - I'm sure that the software will help with education.
-   - I want to be a developer who contributes to educational software.
-
-
-## 🌱 I’m currently interested in ...
-   - **Data pipelines** that store data in the right place and take it out and hand it over when I want to.
-   - Searching and turning over **data as a query** to meet other's request.
-   - **Distributing and processing the server** so that it doesn't overload.
-
-
-## ⚡ My skill is ...
+## My skill is ...
 The order doesn't matter! If you click the link, it connects to the repository.
    - Spring > (studying) / Simple Web / [Todo-Challengers](https://github.com/RumosZin/todoChallegers)
    - Docker Kubernetes > (studying) / [Practice](https://github.com/GDSC-CAU/GDSC-CAU-CI-CD)
@@ -37,7 +20,7 @@ The order doesn't matter! If you click the link, it connects to the repository.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumosZin)](https://github.com/anuraghazra/github-readme-stats)     
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=01zxcv)](https://solved.ac/01zxcv/)
-## 😄 Mentoring / Study
+## Mentoring / Study
 
    - Personal Study
       - Baekjoon Problem Solving (2023.07 ~ 2023.08 / 2024.01 ~ on going)
