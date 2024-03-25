@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=200&section=header)
-
 # Welcome to Rumos's GitHub! 👋
 
 ## I am ...
