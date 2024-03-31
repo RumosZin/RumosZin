@@ -52,8 +52,6 @@
 - Backend : Java 17, Spring, Spring Boot
 - Database : H2
 
-## School Project 
-
 [GUI-based Git repository management service using open-source file explorer](https://github.com/RumosZin/Welcome-git)
 
 2023.04 - 2023.06 / **Init, Clone part**
