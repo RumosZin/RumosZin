@@ -72,13 +72,6 @@
 - Subject : Capstone Design(1)
 - Award : 제2회 중앙대학교 LINC3.0 캡스톤디자인 경진대회 창업 분야 대상
 
-[Yatch Dice Game with Console](https://github.com/RumosZin/Yacht_Project)
-
-2022.10 - 2022.10 / **Game Developer**
-
-- Language : C++
-- Subject : Object Oriented Programming
-
 ## Study
 
 2023.09 - 2023.12 [쿠버네티스 입문 : 90가지 예제로 배우는 컨테이너 관리 자동화 표준 실습](https://github.com/GDSC-CAU/GDSC-CAU-CI-CD)
