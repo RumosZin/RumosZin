@@ -59,13 +59,11 @@
 
 ## Study
 
-2023.09 - 2023.12 [쿠버네티스 입문 : 90가지 예제로 배우는 컨테이너 관리 자동화 표준 실습](https://github.com/GDSC-CAU/GDSC-CAU-CI-CD)
+2023.09 - 2023.12 쿠버네티스 입문 : 90가지 예제로 배우는 컨테이너 관리 자동화 표준 실습
 
-2023.01 - 2023.04, 2024.01 - ing [Spring 스터디](https://github.com/RumosZin/spring-study)
+2023.01 - 2023.04, 2024.01 - ing Spring 스터디
 
-2023.07 - ing [알고리즘 문제 풀이 : BOJ, Programmers, SWEA](https://github.com/RumosZin/algorithm-study)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=01zxcv)](https://solved.ac/01zxcv/)
+2023.07 - ing 알고리즘 문제 풀이 : BOJ, Programmers, SWEA
 
 
   
