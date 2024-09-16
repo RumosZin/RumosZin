@@ -1,20 +1,16 @@
 ## Introduction
-   - Intern in Mintech (2024.03 ~ 2024.08)
+   - 민트 기술 인턴 (2024.03 ~ 2024.08)
    - Google Developer Student Clubs Chung-Ang University 4th Core Member (2024.9 ~)
    - Google Developer Student Clubs Chung-Ang University 3rd Member (2023.9 ~ 2024.8)
-   - Majored in Computer Science at Chung-ang University (2021.3 ~)
-
-[루모스의 기술블로그](https://rumoszin.github.io/)
-
+   - 중앙대학교 소프트웨어학부 (2021.3 ~)
+   - **Tech Blog : more about my experiences** [루모스의 기술블로그](https://rumoszin.github.io/) 
 <br>
 
 ## Project
-
 [AI 프로필 서비스, 푸앙이 사진관](https://github.com/GDSC-CAU/PuangFilm-BE)
 
 - 2024.07 ~ ing / **Back-end**
-- Java 17, SpringBoot, Spring data JPA, Redis, MySQL, Flask, RabbitMq, AWS EC2/S3
-
+- Java 17, pringBoot, Spring data JPA, Redis, MySQL, Flask, RabbitMq, AWS EC2/S3
 <br>
 
 ## Club Activity
@@ -41,16 +37,6 @@
 - [Motivation] https://github.com/supabase/supabase/issues/23132
 
 <br>
-
-
-
-<br>
-
-
-
-
-
-
 
 <!--
 **RumosZin/RumosZin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
