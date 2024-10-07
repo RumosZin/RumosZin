@@ -10,7 +10,7 @@
 [AI 프로필 서비스, 푸앙이 사진관](https://github.com/GDSC-CAU/PuangFilm-BE)
 
 - 2024.07 ~ ing / **Back-end**
-- Java 17, pringBoot, Spring data JPA, Redis, MySQL, Flask, RabbitMq, AWS EC2/S3
+- Java 17, SpringBoot, Spring data JPA, Redis, MySQL, Flask, RabbitMq, AWS EC2/S3
 <br>
 
 ## Club Activity
