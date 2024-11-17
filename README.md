@@ -1,9 +1,9 @@
 ## Introduction
-   - 민트 기술 인턴 (2024.03 ~ 2024.08)
+   - MintTech Intern, FullStack / DevOps (2024.03 ~ 2024.08)
    - Google Developer Student Clubs Chung-Ang University 4th Core Member (2024.9 ~)
    - Google Developer Student Clubs Chung-Ang University 3rd Member (2023.9 ~ 2024.8)
    - 중앙대학교 소프트웨어학부 (2021.3 ~)
-   - **Tech Blog : more about my experiences** [루모스의 기술블로그](https://rumoszin.github.io/) 
+   - **[Tech Blog](https://rumoszin.github.io/) : more about my experiences**
 <br>
 
 ## Project
