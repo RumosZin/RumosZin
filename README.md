@@ -1,8 +1,9 @@
 ## Introduction
-   - MintTech Intern, FullStack / DevOps (2024.03 ~ 2024.08)
-   - Google Developer Student Clubs Chung-Ang University 4th Core Member (2024.9 ~)
+   - LG CNS Software Engineer (2025.01 ~ )
+   - Google Developer Student Clubs Chung-Ang University 4th Core Member (2024.9 ~ 2025.02)
    - Google Developer Student Clubs Chung-Ang University 3rd Member (2023.9 ~ 2024.8)
-   - 중앙대학교 소프트웨어학부 (2021.3 ~)
+   - MintTech Intern, FullStack / DevOps (2024.03 ~ 2024.08)
+   - 중앙대학교 소프트웨어학부 (2021.3 ~ 2025.02)
    - **[Tech Blog](https://rumoszin.github.io/) : more about my experiences**
 <br>
 
